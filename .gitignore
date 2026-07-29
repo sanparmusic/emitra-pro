@@ -1,0 +1,20 @@
+# Node
+frontend/node_modules
+frontend/dist
+
+# Laravel
+backend/vendor
+backend/storage/*.key
+backend/bootstrap/cache
+
+# Environment
+.env
+.env.*
+
+# IDE
+.vscode
+.idea
+
+# OS
+.DS_Store
+Thumbs.db
